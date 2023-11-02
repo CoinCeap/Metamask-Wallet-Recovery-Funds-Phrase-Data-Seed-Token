@@ -1,0 +1,30 @@
+.pay-with-dubx-container {
+    display: inline-block; 
+    position: relative; 
+}
+.error-message {
+position: absolute;
+top: 0;
+left: 100%;
+padding: 10px;
+border: 1px solid #e1e1e1;
+padding: 8px 18px;
+border-radius: 5px;
+margin-left: 20px;
+margin-right: 20px;
+}
+.error-text {
+color: #bdbdbd;
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+line-height: 20px;
+font-weight: 500;
+}
+.metamask-text {
+    color: #c36;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    text-decoration: underline;
+    font-weight: 700;
+}
